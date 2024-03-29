@@ -7,4 +7,3 @@ Based of tsumaru720/smokeping-bootstrap version
 
 Todo;
 - Hide the filter menu in the sidebar
-- change the markup, some names are to big 
