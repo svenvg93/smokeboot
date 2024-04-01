@@ -1,6 +1,6 @@
-# Smokeboot - Bootstrap Smokeping WebGui
+# Smokeping - Bootstrap WebGui
 
-Smokeboot is a modern looking smokeping webgui.
+A modern looking smokeping webgui.
 
 ## Screenshots
 
