@@ -2,6 +2,9 @@
 
 Smokeboot is a modern looking smokeping webgui.
 
+## Screenshots
+
+<img width="1475" alt="image" src="https://github.com/svenvg93/smokeping-bootstrap/assets/4511676/297b8060-2703-4855-b1d4-d5d441c90a9f">
 
 ## Features
 
@@ -38,10 +41,6 @@ Docker compose:
 volumes:
 - ./smokeping/basepage.html:/etc/smokeping/basepage.html
 ```
-
-## Screenshots
-
-<img width="1475" alt="image" src="https://github.com/svenvg93/smokeping-bootstrap/assets/4511676/297b8060-2703-4855-b1d4-d5d441c90a9f">
 
 ## Acknowledgements
 
