@@ -30,11 +30,6 @@ Replace the standaard page
 
 Use docker volumes to pass the into the docker container
 
-```bash
- cd /path/to/docke/config/folder
- wget https://raw.githubusercontent.com/svenvg93/smokeboot/main/basepage.html
-```
-
 Docker compose:
 
  ```bash
