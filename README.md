@@ -36,6 +36,14 @@ volumes:
 - ./smokeping/basepage.html:/etc/smokeping/basepage.html
 ```
 
+## Background change
+Set the graph border to no to have no borders and grey background on the graphs
+
+ ```bash
+graphborders = no
+```
+
+
 ## Acknowledgements
 
  - [tsumaru720/smokeping-bootstrap]([https://github.com/tsumaru720/smokeping-bootstrap])
