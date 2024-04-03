@@ -14,7 +14,6 @@ A modern looking smokeping webgui.
 ## Roadmap
 
 - Better support for small screen devices
-- Dark mode
 
 ## Installation - Bare metal
 
