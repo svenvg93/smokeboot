@@ -11,11 +11,9 @@ A modern looking smokeping webgui.
 - Cropping graphs
 - Search Functions
 
-## Roadmap
+## Installation
 
-- Better support for small screen devices
-
-## Installation - Bare metal
+### Bare metal
 
 Replace the standaard page
 
@@ -25,7 +23,7 @@ Replace the standaard page
  wget https://raw.githubusercontent.com/svenvg93/smokeboot/main/basepage.html
 ```
 
-## Installation - Docker
+### Docker
 
 Use docker volumes to pass the into the docker container
 
